@@ -11,7 +11,7 @@
   <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
   <label for="vehicle2"> Dachbox</label><br>
   <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-  <label for="vehicle3"> Fahrradträger</label>
+  <label for="vehicle3"> Fahrradträger</label><br>
   <input type="checkbox" id="vehicle3" name="vehicle4" value="Boat">
   <label for="vehicle4"> Mountainbikes</label>
   <br>
