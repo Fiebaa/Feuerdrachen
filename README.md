@@ -6,14 +6,14 @@
   <br>
   Was möchten Sie ausleihen (Mehrauswahl möglich)?
   <br>
-  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-  <label for="vehicle1"> T5 Bus</label><br>
-  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-  <label for="vehicle2"> Dachbox</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-  <label for="vehicle3"> Fahrradträger</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle4" value="Boat">
-  <label for="vehicle4"> Mountainbikes</label>
+  <input type="checkbox" id="vehicle1" name="T5Bus" value="T5Bus">
+  <label for="T5Bus"> T5 Bus</label><br>
+  <input type="checkbox" id="vehicle2" name="Dachbox" value="Dachbox">
+  <label for="Dachbox"> Dachbox</label><br>
+  <input type="checkbox" id="vehicle3" name="Traeger" value="Traeger">
+  <label for="Traeger"> Fahrradträger</label><br>
+  <input type="checkbox" id="vehicle3" name="bikes" value="Bikes">
+  <label for="bikes"> Mountainbikes</label>
   <br>
   <label for="abholung">Datum Abholung:</label><br>
   <input name="abholung" type="date" required>
